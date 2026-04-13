@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "title": "Summer Music Festival",
+        "category": "Music",
+        "description": "Join us for an incredible summer music festival featuring top artists from around the world.",
+        "date": "2026-07-15",
+        "time": "18:00",
+        "location": "Central Park, New York",
+        "price": "$50"
+    },
+    {
+        "id": 2,
+        "title": "Tech Conference 2026",
+        "category": "Technology",
+        "description": "Learn about the latest innovations in technology from industry leaders and experts.",
+        "date": "2026-05-20",
+        "time": "09:00",
+        "location": "Convention Center, San Francisco",
+        "price": "$100"
+    },
+    {
+        "id": 3,
+        "title": "Food & Wine Tasting",
+        "category": "Food & Drink",
+        "description": "Experience exquisite wines paired with delicious cuisine from top local chefs.",
+        "date": "2026-06-10",
+        "time": "19:00",
+        "location": "Downtown Restaurant District",
+        "price": "$75"
+    },
+    {
+        "id": 4,
+        "title": "Art Exhibition Opening",
+        "category": "Art",
+        "description": "Celebrate the opening of a contemporary art exhibition featuring emerging artists.",
+        "date": "2026-04-25",
+        "time": "17:00",
+        "location": "Modern Art Gallery, Los Angeles",
+        "price": "Free"
+    },
+    {
+        "id": 5,
+        "title": "Marathon Race",
+        "category": "Sports",
+        "description": "Challenge yourself in our annual marathon event for all fitness levels.",
+        "date": "2026-09-05",
+        "time": "07:00",
+        "location": "City Streets",
+        "price": "$30"
+    }
+]
