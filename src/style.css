@@ -1,0 +1,50 @@
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.search-container input {
+  width: 100%;
+  padding: 12px;
+  font-size: 1rem;
+  border: 2px solid #ddd;
+  border-radius: 8px;
+  margin-bottom: 2rem;
+  outline: none;
+}
+
+.search-container input:focus {
+  border-color: #6c63ff;
+}
+
+.event-list {
+  display: grid;
+  gap: 1rem;
+}
+
+.event-card {
+  border: 1px solid #eee;
+  padding: 1.5rem;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+  transition: transform 0.2s;
+}
+
+.event-card:hover {
+  transform: translateY(-3px);
+}
+
+.badge {
+  background: #6c63ff;
+  color: white;
+  padding: 4px 12px;
+  border-radius: 20px;
+  font-size: 0.8rem;
+}
